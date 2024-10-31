@@ -120,9 +120,6 @@ The API Gateway includes:
 3. Submit a pull request
 
 ## License
+MIT License
 
-[Your License Here]
-
-## Contact
-
-[Your Contact Information]
+Copyright (c) 2024 Jeff Asante
