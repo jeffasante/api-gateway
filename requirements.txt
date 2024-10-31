@@ -1,0 +1,9 @@
+Django>=3.2,<4.0
+djangorestframework>=3.12
+djangorestframework-jwt>=1.11
+django-redis>=5.2.0
+redis>=3.5.3,<4.0
+gunicorn>=20.1
+django-prometheus>=2.2.0
+prometheus-client>=0.12
+psycopg2-binary>=2.9.1
