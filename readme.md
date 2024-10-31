@@ -38,7 +38,7 @@ api_gateway/
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/jeffasante/api-gateway.git
 cd api_gateway
 ```
 
